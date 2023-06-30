@@ -1,5 +1,10 @@
-### Hi there 👋
-Hello! I'm Yuliia, a novice Full-Stack Developer. I'm from Ukraine, currently based in Ireland. 
+Hello! 👋 I'm Yuliia, a novice Full-Stack Developer. I'm from Ukraine, currently based in Ireland. 
+
+Here are some of recent my projects:
+-   [Secret Santa](https://github.com/Julia-cloudname/Project_1)
+-   [Stopwatch](https://github.com/Julia-cloudname/Project_2)
+-   [Calories/BMR calculator](https://github.com/Julia-cloudname/Project_3)
+
 <!--
 **Julia-cloudname/Julia-cloudname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
