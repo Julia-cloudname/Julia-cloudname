@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hello! I'm Yuliia, a novice Full-Stack Developer. I'm from Ukraine, currently based in Ireland. 
 <!--
 **Julia-cloudname/Julia-cloudname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
