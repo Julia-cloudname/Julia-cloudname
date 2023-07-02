@@ -1,9 +1,9 @@
 Hello! 👋 I'm Yuliia, a novice Full-Stack Developer. I'm from Ukraine, currently based in Ireland. 
 
 Here are some of my recent projects:
--   [Secret Santa](https://github.com/Julia-cloudname/Project_1)
--   [Stopwatch](https://github.com/Julia-cloudname/Project_2)
--   [Calories/BMR calculator](https://github.com/Julia-cloudname/Project_3)
+-   [Secret Santa](https://julia-cloudname.github.io/Project_1/index.html)
+-   [Stopwatch](https://julia-cloudname.github.io/Project_2/)
+-   [Calories/BMR calculator](https://health-calculators.herokuapp.com/)
 
 <!--
 **Julia-cloudname/Julia-cloudname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
