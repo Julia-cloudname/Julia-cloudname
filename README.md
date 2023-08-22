@@ -4,6 +4,10 @@ Here are some of my recent projects:
 -   [Secret Santa](https://julia-cloudname.github.io/Project_1/index.html)
 -   [Stopwatch](https://julia-cloudname.github.io/Project_2/)
 -   [Calories/BMR calculator](https://health-calculators.herokuapp.com/)
+-   [Marisol Furniture](https://github.com/Julia-cloudname/marisol)
+
+Collaboration project:
+-   [Mario Retro Quest](https://github.com/AVTpepper/retro-quest)
 
 <!--
 **Julia-cloudname/Julia-cloudname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
