@@ -6,7 +6,7 @@ Here are some of my recent projects:
 -   [Calories/BMR calculator](https://health-calculators.herokuapp.com/)
 -   [Marisol Furniture](https://github.com/Julia-cloudname/marisol)
 
-Collaboration project:
+COLLABORATIVE PROJECTS:
 -   [Mario Retro Quest](https://github.com/AVTpepper/retro-quest)
 
 <!--
