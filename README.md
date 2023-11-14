@@ -5,6 +5,7 @@ Here are some of my recent projects:
 -   [Stopwatch](https://julia-cloudname.github.io/Project_2/)
 -   [Calories/BMR calculator](https://health-calculators.herokuapp.com/)
 -   [Marisol Furniture](https://github.com/Julia-cloudname/marisol)
+-   [Garvin shop](https://github.com/Julia-cloudname/garvin-shop-v1))
 
 COLLABORATIVE PROJECTS:
 -   [Mario Retro Quest](https://github.com/AVTpepper/retro-quest)
