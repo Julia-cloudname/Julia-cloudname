@@ -1,4 +1,4 @@
-Hello! 👋 I'm Yuliia, Full-Stack Developer. I'm from Ukraine, currently based in Ireland. 
+Hello! 👋 I'm Yuliia, Full-Stack Developer. I'm from Ukraine, currently based in USA. 
 
 Here are some of my recent projects:
 -   [Secret Santa](https://julia-cloudname.github.io/Project_1/index.html)
